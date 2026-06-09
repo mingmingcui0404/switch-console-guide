@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://goods.cloud-ip.cc/sitemap.xml
+Sitemap: https://switch-console-guide.pages.dev/sitemap.xml
